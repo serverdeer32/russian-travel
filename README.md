@@ -11,3 +11,4 @@
 5. GRID Layout
 6. Адаптивный дизайн
 
+[Проект на GitHub Pages](https://serverdeer32.github.io/russian-travel/)
