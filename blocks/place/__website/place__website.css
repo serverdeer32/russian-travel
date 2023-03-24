@@ -1,5 +1,7 @@
 .place__website {
   grid-area: url;
+  display: flex;
+  flex-direction: column;
   align-self: flex-end;
   }
 
