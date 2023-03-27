@@ -1,9 +1,15 @@
 .intro__text {
-  max-width: 690px;
+  max-width: 720px;
   font-weight: 400;
   font-size: 16px;
   line-height: 26px;
   margin: 0;
   color: white;
-  padding: 40px 16px 33px 0;
+  padding: 40px 0 33px;
+}
+
+@media screen and (min-width: 1024px) {
+  .intro__text {
+  max-width: 690px;
+  }
 }
